@@ -2,5 +2,5 @@ package HomeWorks;
 
 @FunctionalInterface
 public interface OnTaskDoneListener {
-    void onDone(String result);
+    void onDone ( String result );
 }

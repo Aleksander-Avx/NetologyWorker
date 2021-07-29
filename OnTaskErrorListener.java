@@ -2,7 +2,7 @@ package HomeWorks;
 
 @FunctionalInterface
 public interface OnTaskErrorListener {
-    void onError(String result);
+    void onError ( String result );
 }
 
 
